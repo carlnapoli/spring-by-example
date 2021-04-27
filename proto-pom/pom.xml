@@ -39,7 +39,7 @@
         <aspectj.version>1.7.4</aspectj.version>
         <hibernate.version>4.3.4.Final</hibernate.version>
         <jackson.mapper.version>2.3.2</jackson.mapper.version>
-        <jackrabbit.version>2.7.4</jackrabbit.version>
+        <jackrabbit.version>2.16.7</jackrabbit.version>
         <jasper.el.version>6.0.35</jasper.el.version>
         <jetty.version>6.1.26</jetty.version>
         <jstl.version>1.1.2</jstl.version>        
@@ -454,7 +454,7 @@
             <dependency>
                 <groupId>commons-io</groupId>
                 <artifactId>commons-io</artifactId>
-                <version>2.4</version>
+                <version>2.7</version>
             </dependency>
             <dependency>
                 <groupId>commons-lang</groupId>
