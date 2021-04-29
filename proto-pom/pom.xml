@@ -37,7 +37,7 @@
         <spring.ws.version>2.1.4.RELEASE</spring.ws.version>
 
         <aspectj.version>1.7.4</aspectj.version>
-        <hibernate.version>4.3.4.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <jackson.mapper.version>2.3.2</jackson.mapper.version>
         <jackrabbit.version>2.7.4</jackrabbit.version>
         <jasper.el.version>6.0.35</jasper.el.version>
