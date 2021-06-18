@@ -26,7 +26,7 @@
         <sbe.util.version>1.2.5</sbe.util.version>
         <contact.app.version>1.1.1</contact.app.version>
 
-        <spring.framework.version>4.0.2.RELEASE</spring.framework.version>
+        <spring.framework.version>4.0.5.RELEASE</spring.framework.version>
         <spring.amqp.version>1.2.1.RELEASE</spring.amqp.version>
         <spring.data.jpa.version>1.5.0.RELEASE</spring.data.jpa.version>
         <spring.data.rest.version>1.0.0.RELEASE</spring.data.rest.version>
@@ -37,7 +37,7 @@
         <spring.ws.version>2.1.4.RELEASE</spring.ws.version>
 
         <aspectj.version>1.7.4</aspectj.version>
-        <hibernate.version>4.3.4.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <jackson.mapper.version>2.3.2</jackson.mapper.version>
         <jackrabbit.version>2.7.4</jackrabbit.version>
         <jasper.el.version>6.0.35</jasper.el.version>
@@ -540,7 +540,7 @@
             <dependency>
                 <groupId>org.jadira.usertype</groupId>
                 <artifactId>usertype.core</artifactId>
-                <version>3.0.0.CR3</version>
+                <version>3.1.0.GA</version>
             </dependency>
             <dependency>
                 <groupId>org.jvnet.opendmk</groupId>
