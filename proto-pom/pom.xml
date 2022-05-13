@@ -26,9 +26,9 @@
         <sbe.util.version>1.2.5</sbe.util.version>
         <contact.app.version>1.1.1</contact.app.version>
 
-        <spring.framework.version>4.0.2.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.22.RELEASE</spring.framework.version>
         <spring.amqp.version>1.2.1.RELEASE</spring.amqp.version>
-        <spring.data.jpa.version>1.5.0.RELEASE</spring.data.jpa.version>
+        <spring.data.jpa.version>2.7.0</spring.data.jpa.version>
         <spring.data.rest.version>1.0.0.RELEASE</spring.data.rest.version>
         <spring.flex.version>1.5.2.RELEASE</spring.flex.version>
         <spring.integration.version>3.0.1.RELEASE</spring.integration.version>
