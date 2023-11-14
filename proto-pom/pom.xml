@@ -38,7 +38,7 @@
 
         <aspectj.version>1.7.4</aspectj.version>
         <hibernate.version>4.3.4.Final</hibernate.version>
-        <jackson.mapper.version>2.3.2</jackson.mapper.version>
+        <jackson.mapper.version>2.7.9.6</jackson.mapper.version>
         <jackrabbit.version>2.7.4</jackrabbit.version>
         <jasper.el.version>6.0.35</jasper.el.version>
         <jetty.version>6.1.26</jetty.version>
@@ -439,7 +439,7 @@
             <dependency>
                 <groupId>commons-collections</groupId>
                 <artifactId>commons-collections</artifactId>
-                <version>3.2.1</version>
+                <version>3.2.2</version>
             </dependency>
             <dependency>
                 <groupId>commons-dbcp</groupId>
